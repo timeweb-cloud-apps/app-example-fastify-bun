@@ -1,0 +1,15 @@
+{
+    "name": "app-example-fastify-bun",
+    "module": "index.ts",
+    "type": "module",
+    "scripts": {
+        "build": "echo \"Build command\"",
+        "start": "bun run index.ts"
+    },
+    "dependencies": {
+        "fastify": "^5.1.0"
+    },
+    "devDependencies": {
+        "bun-types": "latest"
+    }
+}
