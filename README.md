@@ -1,3 +1,5 @@
+![Fastify Logo](https://st.timeweb.com/cloud-static/apps-logo/fastify.svg)
+
 # Fastify on Bun
 
 Пример приложения [Fastify](https://fastify.dev/) на рантайме [Bun](https://bun.sh/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
